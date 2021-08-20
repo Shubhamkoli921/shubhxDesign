@@ -178,6 +178,9 @@ html{
     margin-bottom: 30px;
     font-family:'Lato', sans-serif ;
 }
+.visible{
+    display: none;
+}
 /* project -section */
 
 
@@ -437,6 +440,12 @@ html{
         transform: translate(-1.9rem,29.5rem);
         width: 2px;
         height: 4%;
+    }
+       .visible{
+        display: flex;
+    }
+    .notvisible{
+        display: none;
     }
     .timeline::after {
         left: 31px;

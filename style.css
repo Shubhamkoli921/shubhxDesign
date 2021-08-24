@@ -195,6 +195,7 @@ html{
     width: 570px;
     height: 570px;
     border: 2px solid #f1f1f1;
+    background-color: rgb(228, 225, 225);
     perspective: 1000px;
     display: flex;
     justify-content: center;
@@ -227,7 +228,6 @@ html{
   
   .flip-box-front {
     padding: 10px;
-    background-color: #bbb;
     color: black;
     margin: 0px 20px;
     height: 550px;

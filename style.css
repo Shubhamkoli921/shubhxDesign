@@ -384,5 +384,8 @@ html{
     .flip-box-back{
         height: 450px;
     }
+    .flip-box-front img{
+     margin-top:35px;
+     }
     
   }
